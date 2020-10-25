@@ -1,0 +1,25 @@
+.result {
+    height: 60px;
+    background-color: #bbb;
+    width: 100%;
+    font-size: 40px;
+    
+  }  
+  
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+    color: black;
+    background-color: darkturquoise;
+    
+  }
+
+  body{
+      margin: auto;
+  color: purple;
+  padding: 10;
+      max-width: 50%;
+  }
+
+  
