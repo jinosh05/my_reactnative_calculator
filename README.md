@@ -1,4 +1,6 @@
-# WebBrowser Redirect Example
+### A Simple Calculator in Expo Cli
+
+![](Screenshot%20at%202020-12-03%2015-35-24.png)
 
 ### Running the app
 
